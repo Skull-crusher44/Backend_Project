@@ -13,6 +13,7 @@
   "author": "Pankaj Ahuja",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "prettier": "^3.4.2"
   }
 }
